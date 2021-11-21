@@ -1,2 +1,2 @@
-# Glowing Gradient Border
+# Glowing Gradient Border Effect
  
