@@ -5,5 +5,5 @@ A Glowing Gradient Border Effect made to improve my knowledge about CSS.
 
 ## Interface 
 <h1 align="center">
-    <img alt="Doe_GIF" title="Doe_Interface_GIF" src="github/Doe_Website_GIF.gif">
+    <img alt="Glowing Image" title="Glowing_Gradient_Interface" src="img/interface.png">
 </h1>
