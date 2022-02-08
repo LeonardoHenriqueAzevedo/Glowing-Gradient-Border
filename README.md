@@ -11,4 +11,4 @@ A Glowing Gradient Border Effect made to improve my knowledge about CSS.
 # 💻 Technologies
 ## Front End
 - **HTML**
-- **CSS**
+- **CSS**   
