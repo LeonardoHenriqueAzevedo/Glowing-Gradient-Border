@@ -12,3 +12,6 @@ A Glowing Gradient Border Effect made to improve my knowledge about CSS.
 ## Front End
 - **HTML**
 - **CSS**   
+
+# 📝 License
+This project have the license of the [MIT](./LICENSE). 
